@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mother Teresa Biography</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Mother Teresa</h1>
+    <p>"Not all of us can do great things. But we can do small things with great love."</p>
+  </header>
+
+  <section class="bio">
+    <img src="mother-teresa.jpg" alt="Mother Teresa" />
+    <p>
+      Mother Teresa, also known as Saint Teresa of Calcutta, was a Roman Catholic nun and missionary. She was born on August 26, 1910, and dedicated her life to serving the poor and sick in India.
+    </p>
+  </section>
+
+  <section class="timeline">
+    <h2>Key Life Events</h2>
+    <ul>
+      <li>1910: Born in Skopje</li>
+      <li>1928: Joined the Sisters of Loreto</li>
+      <li>1950: Founded the Missionaries of Charity</li>
+      <li>1979: Received the Nobel Peace Prize</li>
+      <li>1997: Passed away</li>
+      <li>2016: Canonized as Saint Teresa of Calcutta</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Created by Alina Simon | #cl-web-biographypage</p>
+  </footer>
+</body>
+</html>
